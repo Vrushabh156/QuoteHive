@@ -1,0 +1,1 @@
+QuoteHive is an Android app built with Jetpack Compose that fetches and displays quotes from an API using MVVM and Clean Architecture. It uses Kotlin Coroutines with Retrofit to make asynchronous network calls.
